@@ -15,3 +15,5 @@ O #git diff você ver as alterações e o que foi modificado
 O #git diff --staged você adiciona em um lugar
 
 O #git commit -m "add alterações" você faz o commit 
+
+O #git log traz um histórico dos últimos commit feitos
