@@ -28,3 +28,4 @@ O #git restore .\nomeDoArquivo remove da área de modificação
 
 * Comando git push
 * comando git pull
+* comando git fetch
