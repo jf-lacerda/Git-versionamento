@@ -12,8 +12,14 @@ O #git add .\nomeDoArquivo você adiciona alterações
 
 O #git diff você ver as alterações e o que foi modificado
 
-O #git diff --staged você adiciona em um lugar
+O #git diff --staged você adiciona na área de staged
 
 O #git commit -m "add alterações" você faz o commit 
 
 O #git log traz um histórico dos últimos commit feitos
+
+O #git restora .\nomeDoArquivo remore as alteração do arquivo
+
+O #git restore --staged .\nomeDoArquivo remove da área de staged
+
+O #git restore .\nomeDoArquivo remove da área de modificação
