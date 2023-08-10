@@ -23,3 +23,7 @@ O #git restora .\nomeDoArquivo remore as alteração do arquivo
 O #git restore --staged .\nomeDoArquivo remove da área de staged
 
 O #git restore .\nomeDoArquivo remove da área de modificação
+
+# Repositórios remotos
+
+* Comando git push 
