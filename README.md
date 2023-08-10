@@ -26,4 +26,5 @@ O #git restore .\nomeDoArquivo remove da área de modificação
 
 # Repositórios remotos
 
-* Comando git push 
+* Comando git push
+* comando git pull
