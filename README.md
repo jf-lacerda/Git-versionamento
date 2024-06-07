@@ -24,6 +24,8 @@ O #git restore --staged .\nomeDoArquivo remove da área de staged
 
 O #git restore .\nomeDoArquivo remove da área de modificação
 
+#git push -u origin master salva as alterações
+
 # Repositórios remotos
 
 * Comando git push
